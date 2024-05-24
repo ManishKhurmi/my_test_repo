@@ -1,1 +1,1 @@
-# my_test_repo_2
+# my_test_repo
